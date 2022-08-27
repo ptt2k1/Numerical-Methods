@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\Máy tính\C#\Tonghop\bin\Debug\net5.0\Tonghop.exe
+C:\Users\admin\OneDrive\Máy tính\C#\Tonghop\bin\Debug\net5.0\Tonghop.deps.json
+C:\Users\admin\OneDrive\Máy tính\C#\Tonghop\bin\Debug\net5.0\Tonghop.runtimeconfig.json
+C:\Users\admin\OneDrive\Máy tính\C#\Tonghop\bin\Debug\net5.0\Tonghop.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Máy tính\C#\Tonghop\bin\Debug\net5.0\Tonghop.dll
+C:\Users\admin\OneDrive\Máy tính\C#\Tonghop\bin\Debug\net5.0\ref\Tonghop.dll
+C:\Users\admin\OneDrive\Máy tính\C#\Tonghop\bin\Debug\net5.0\Tonghop.pdb
+C:\Users\admin\OneDrive\Máy tính\C#\Tonghop\obj\Debug\net5.0\Tonghop.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Máy tính\C#\Tonghop\obj\Debug\net5.0\Tonghop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Máy tính\C#\Tonghop\obj\Debug\net5.0\Tonghop.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Máy tính\C#\Tonghop\obj\Debug\net5.0\Tonghop.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Máy tính\C#\Tonghop\obj\Debug\net5.0\Tonghop.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Máy tính\C#\Tonghop\obj\Debug\net5.0\Tonghop.dll
+C:\Users\admin\OneDrive\Máy tính\C#\Tonghop\obj\Debug\net5.0\ref\Tonghop.dll
+C:\Users\admin\OneDrive\Máy tính\C#\Tonghop\obj\Debug\net5.0\Tonghop.pdb
+C:\Users\admin\OneDrive\Máy tính\C#\Tonghop\obj\Debug\net5.0\Tonghop.genruntimeconfig.cache
