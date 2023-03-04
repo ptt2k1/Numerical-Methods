@@ -1,0 +1,15 @@
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyTrungTam\bin\Debug\net6.0\NoiSuyTrungTam.exe
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyTrungTam\bin\Debug\net6.0\NoiSuyTrungTam.deps.json
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyTrungTam\bin\Debug\net6.0\NoiSuyTrungTam.runtimeconfig.json
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyTrungTam\bin\Debug\net6.0\NoiSuyTrungTam.dll
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyTrungTam\bin\Debug\net6.0\ref\NoiSuyTrungTam.dll
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyTrungTam\bin\Debug\net6.0\NoiSuyTrungTam.pdb
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyTrungTam\obj\Debug\net6.0\NoiSuyTrungTam.csproj.AssemblyReference.cache
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyTrungTam\obj\Debug\net6.0\NoiSuyTrungTam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyTrungTam\obj\Debug\net6.0\NoiSuyTrungTam.AssemblyInfoInputs.cache
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyTrungTam\obj\Debug\net6.0\NoiSuyTrungTam.AssemblyInfo.cs
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyTrungTam\obj\Debug\net6.0\NoiSuyTrungTam.csproj.CoreCompileInputs.cache
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyTrungTam\obj\Debug\net6.0\NoiSuyTrungTam.dll
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyTrungTam\obj\Debug\net6.0\ref\NoiSuyTrungTam.dll
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyTrungTam\obj\Debug\net6.0\NoiSuyTrungTam.pdb
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyTrungTam\obj\Debug\net6.0\NoiSuyTrungTam.genruntimeconfig.cache

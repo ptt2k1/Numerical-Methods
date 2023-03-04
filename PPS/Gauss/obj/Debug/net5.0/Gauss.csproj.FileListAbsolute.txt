@@ -1,0 +1,16 @@
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Gauss\bin\Debug\net5.0\Gauss.exe
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Gauss\bin\Debug\net5.0\Gauss.deps.json
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Gauss\bin\Debug\net5.0\Gauss.runtimeconfig.json
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Gauss\bin\Debug\net5.0\Gauss.runtimeconfig.dev.json
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Gauss\bin\Debug\net5.0\Gauss.dll
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Gauss\bin\Debug\net5.0\ref\Gauss.dll
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Gauss\bin\Debug\net5.0\Gauss.pdb
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Gauss\obj\Debug\net5.0\Gauss.csproj.AssemblyReference.cache
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Gauss\obj\Debug\net5.0\Gauss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Gauss\obj\Debug\net5.0\Gauss.AssemblyInfoInputs.cache
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Gauss\obj\Debug\net5.0\Gauss.AssemblyInfo.cs
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Gauss\obj\Debug\net5.0\Gauss.csproj.CoreCompileInputs.cache
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Gauss\obj\Debug\net5.0\Gauss.dll
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Gauss\obj\Debug\net5.0\ref\Gauss.dll
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Gauss\obj\Debug\net5.0\Gauss.pdb
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Gauss\obj\Debug\net5.0\Gauss.genruntimeconfig.cache

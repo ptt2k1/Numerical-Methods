@@ -1,0 +1,16 @@
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyNewTon\bin\Debug\net5.0\NoiSuyNewTon.exe
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyNewTon\bin\Debug\net5.0\NoiSuyNewTon.deps.json
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyNewTon\bin\Debug\net5.0\NoiSuyNewTon.runtimeconfig.json
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyNewTon\bin\Debug\net5.0\NoiSuyNewTon.runtimeconfig.dev.json
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyNewTon\bin\Debug\net5.0\NoiSuyNewTon.dll
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyNewTon\bin\Debug\net5.0\ref\NoiSuyNewTon.dll
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyNewTon\bin\Debug\net5.0\NoiSuyNewTon.pdb
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyNewTon\obj\Debug\net5.0\NoiSuyNewTon.csproj.AssemblyReference.cache
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyNewTon\obj\Debug\net5.0\NoiSuyNewTon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyNewTon\obj\Debug\net5.0\NoiSuyNewTon.AssemblyInfoInputs.cache
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyNewTon\obj\Debug\net5.0\NoiSuyNewTon.AssemblyInfo.cs
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyNewTon\obj\Debug\net5.0\NoiSuyNewTon.csproj.CoreCompileInputs.cache
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyNewTon\obj\Debug\net5.0\NoiSuyNewTon.dll
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyNewTon\obj\Debug\net5.0\ref\NoiSuyNewTon.dll
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyNewTon\obj\Debug\net5.0\NoiSuyNewTon.pdb
+D:\Code_Numerical_Methods\CodeNoiSuy\NoiSuyNewTon\obj\Debug\net5.0\NoiSuyNewTon.genruntimeconfig.cache

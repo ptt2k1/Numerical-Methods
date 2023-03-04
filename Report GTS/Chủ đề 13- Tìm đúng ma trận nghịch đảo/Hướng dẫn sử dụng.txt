@@ -1,0 +1,22 @@
+Chương trình có sử dụng các hàm trong file thư viện mymath.h
+
+Sau đây là một số hàm sử dụng trong chương trình có nguồn gốc từ thư viện trên.
+matran A(a,b) khai báo ma trận A có a hàng, b cột.
+A.gmatran(a,b,c) gán A[a][b]= c
+A.omatran(a,b) trả về giá trị của A[a][b] (kiểu long double)
+A.gc() trả về số cột của ma trận A (kiểu int)
+A.gr() trả về số hàng của ma trận A (kiểu int)
+A.in() in ma trận ra màn hình
+
+Dữ liệu đầu vào được đọc từ file txt. Nội dung của file gồm hai phần:
+- Dòng đầu là số hàng của ma trận vuông.
+- Từ dòng thứ hai là nội dung ma trận.
+Ví du với ma trận 3x3: 
+
+3
+1 2 3
+4 5 6
+7 8 9
+
+Tiếp đó các bạn đặt tên nó là matran và lưu trực tiếp tại ổ D rồi chạy chương trình thôi :)))
+Chương trình có lưu kết quả tại tệp ketqua.txt. Các bạn lưu trực tiếp tại ổ D nếu bạn muốn chạy các ma trận cỡ lớn.

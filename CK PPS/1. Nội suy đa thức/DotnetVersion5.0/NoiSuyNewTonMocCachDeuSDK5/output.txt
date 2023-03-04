@@ -1,0 +1,150 @@
+
+Da thuc noi suy Newton moc cach deu tinh theo cong thuc sai phan TIEN 
+
+
+
+Da thuc noi suy ban dau voi moc noi suy ban dau x[0] = 2, y[0] = 1.2837 la P(x) = 1.2837
+
+--------------------------------------------------------------------------------------
+
+
+Da thuc moi sau khi them moc noi suy x[1] = 2.2,  y[1] = 1.9034: 
+Tap cac moc noi suy: 	(2, 1.2837) ; 	(2.2, 1.9034) ; 	
+Da thuc bac 1 voi he so cua da thuc la: 
+0.6196999999999999 * x^1 	 + 	1.2837 * x^0 	 + 	
+
+Thu lai 
+Tai du lieu x0 = 2
+Pn(x) - y = 0
+Tai du lieu x1 = 2.2
+Pn(x) - y = 0
+
+--------------------------------------------------------------------------------------
+
+
+Da thuc moi sau khi them moc noi suy x[2] = 2.4,  y[2] = 1.8885: 
+Tap cac moc noi suy: 	(2, 1.2837) ; 	(2.2, 1.9034) ; 	(2.4, 1.8885) ; 	
+Da thuc bac 2 voi he so cua da thuc la: 
+-0.3172999999999999 * x^2 	 + 	0.9369999999999998 * x^1 	 + 	1.2837 * x^0 	 + 	
+
+Thu lai 
+Tai du lieu x0 = 2
+Pn(x) - y = 0
+Tai du lieu x1 = 2.2
+Pn(x) - y = 0
+Tai du lieu x2 = 2.4
+Pn(x) - y = 0
+
+--------------------------------------------------------------------------------------
+
+
+Da thuc moi sau khi them moc noi suy x[3] = 2.6,  y[3] = 1.0938: 
+Tap cac moc noi suy: 	(2, 1.2837) ; 	(2.2, 1.9034) ; 	(2.4, 1.8885) ; 	(2.6, 1.0938) ; 	
+Da thuc bac 3 voi he so cua da thuc la: 
+-0.024200000000000037 * x^3 	 + 	-0.2446999999999998 * x^2 	 + 	0.8885999999999997 * x^1 	 + 	1.2837 * x^0 	 + 	
+
+Thu lai 
+Tai du lieu x0 = 2
+Pn(x) - y = 0
+Tai du lieu x1 = 2.2
+Pn(x) - y = 0
+Tai du lieu x2 = 2.4
+Pn(x) - y = 0
+Tai du lieu x3 = 2.6
+Pn(x) - y = -2.220446049250313E-16
+
+--------------------------------------------------------------------------------------
+
+
+Da thuc moi sau khi them moc noi suy x[4] = 2.8,  y[4] = 0.1662: 
+Tap cac moc noi suy: 	(2, 1.2837) ; 	(2.2, 1.9034) ; 	(2.4, 1.8885) ; 	(2.6, 1.0938) ; 	(2.8, 0.1662) ; 	
+Da thuc bac 4 voi he so cua da thuc la: 
+0.033004166666666675 * x^4 	 + 	-0.2222250000000001 * x^3 	 + 	0.1183458333333336 * x^2 	 + 	0.6905749999999997 * x^1 	 + 	1.2837 * x^0 	 + 	
+
+Thu lai 
+Tai du lieu x0 = 2
+Pn(x) - y = 0
+Tai du lieu x1 = 2.2
+Pn(x) - y = 0
+Tai du lieu x2 = 2.4
+Pn(x) - y = 0
+Tai du lieu x3 = 2.6
+Pn(x) - y = -2.220446049250313E-16
+Tai du lieu x4 = 2.8
+Pn(x) - y = -5.273559366969494E-16
+
+
+---------------------------------------------------------------------------------------------
+
+
+Da thuc noi suy Newton tinh theo cong thuc sai phan LUI 
+
+Da thuc noi suy ban dau voi moc noi suy ban dau x[0] = 2.8, y[0] = 0.1662 la P(x) = 0.1662
+
+-------------------------------------------------------------------------------------------
+
+
+Da thuc moi sau khi them moc noi suy x[3] = 2.6,  y[3] = 1.0938: 
+Tap cac moc noi suy: 	(2.8, 0.1662) ; 	(2.6, 1.0938) ; 	
+Da thuc bac 1 voi he so cua da thuc la: 
+-0.9276000000000001 * x^1 	 + 	0.1662 * x^0 	 + 	
+
+Thu lai 
+Tai du lieu x0 = 2.8
+Pn(x) - y = 0
+Tai du lieu x1 = 2.6
+Pn(x) - y = 0
+
+-------------------------------------------------------------------------------------------
+
+
+Da thuc moi sau khi them moc noi suy x[2] = 2.4,  y[2] = 1.8885: 
+Tap cac moc noi suy: 	(2.8, 0.1662) ; 	(2.6, 1.0938) ; 	(2.4, 1.8885) ; 	
+Da thuc bac 2 voi he so cua da thuc la: 
+-0.06645000000000006 * x^2 	 + 	-0.9940500000000001 * x^1 	 + 	0.1662 * x^0 	 + 	
+
+Thu lai 
+Tai du lieu x0 = 2.8
+Pn(x) - y = 0
+Tai du lieu x1 = 2.6
+Pn(x) - y = -2.220446049250313E-16
+Tai du lieu x2 = 2.4
+Pn(x) - y = -2.220446049250313E-16
+
+-------------------------------------------------------------------------------------------
+
+
+Da thuc moi sau khi them moc noi suy x[1] = 2.2,  y[1] = 1.9034: 
+Tap cac moc noi suy: 	(2.8, 0.1662) ; 	(2.6, 1.0938) ; 	(2.4, 1.8885) ; 	(2.2, 1.9034) ; 	
+Da thuc bac 3 voi he so cua da thuc la: 
+0.10781666666666666 * x^3 	 + 	0.2569999999999999 * x^2 	 + 	-0.7784166666666668 * x^1 	 + 	0.1662 * x^0 	 + 	
+
+Thu lai 
+Tai du lieu x0 = 2.8
+Pn(x) - y = 0
+Tai du lieu x1 = 2.6
+Pn(x) - y = -2.220446049250313E-16
+Tai du lieu x2 = 2.4
+Pn(x) - y = -4.440892098500626E-16
+Tai du lieu x3 = 2.2
+Pn(x) - y = -2.220446049250313E-16
+
+-------------------------------------------------------------------------------------------
+
+
+Da thuc moi sau khi them moc noi suy x[0] = 2,  y[0] = 1.2837: 
+Tap cac moc noi suy: 	(2.8, 0.1662) ; 	(2.6, 1.0938) ; 	(2.4, 1.8885) ; 	(2.2, 1.9034) ; 	(2, 1.2837) ; 	
+Da thuc bac 4 voi he so cua da thuc la: 
+0.033004166666666675 * x^4 	 + 	0.30584166666666673 * x^3 	 + 	0.6200458333333333 * x^2 	 + 	-0.5803916666666666 * x^1 	 + 	0.1662 * x^0 	 + 	
+
+Thu lai 
+Tai du lieu x0 = 2.8
+Pn(x) - y = 0
+Tai du lieu x1 = 2.6
+Pn(x) - y = -2.220446049250313E-16
+Tai du lieu x2 = 2.4
+Pn(x) - y = -8.881784197001252E-16
+Tai du lieu x3 = 2.2
+Pn(x) - y = -1.3322676295501878E-15
+Tai du lieu x4 = 2
+Pn(x) - y = -3.1086244689504383E-15

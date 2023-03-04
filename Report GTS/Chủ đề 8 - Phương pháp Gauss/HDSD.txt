@@ -1,0 +1,12 @@
+Một vài lưu ý khi sử dụng file code phương pháp Gauss:
+1. Ngôn ngữ code: C++ . Sử dụng trên DevC++ hoặc VScode chạy thoải mái
+2. Khi sử dụng cần tạo 1 file dữ liệu đầu vào có đường dẫn như sau: "d://MaTran1.txt" (tên là MaTran.txt và lưu ở ổ D)
+3. File dữ liệu sẽ gồm các phần tử trong ma trận bổ sung
+ a b
+hàng 1
+...
+hàng a
+Trong đó a là số hàng, b+1 là số cột của ma trận bổ sung, a và b cách nhau bởi dấu cách
+Nhập các phần từ trong hàng bình thường, cách nhau bởi dấu cách, xuống dòng để nhập tiếp các hàng khác.
+4. Các thư viện sử dụng: <iostream>; <fstream>; <iomanip>; <cmath>.
+ 

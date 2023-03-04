@@ -1,0 +1,16 @@
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Sterling\bin\Debug\net5.0\Sterling.exe
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Sterling\bin\Debug\net5.0\Sterling.deps.json
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Sterling\bin\Debug\net5.0\Sterling.runtimeconfig.json
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Sterling\bin\Debug\net5.0\Sterling.runtimeconfig.dev.json
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Sterling\bin\Debug\net5.0\Sterling.dll
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Sterling\bin\Debug\net5.0\ref\Sterling.dll
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Sterling\bin\Debug\net5.0\Sterling.pdb
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Sterling\obj\Debug\net5.0\Sterling.csproj.AssemblyReference.cache
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Sterling\obj\Debug\net5.0\Sterling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Sterling\obj\Debug\net5.0\Sterling.AssemblyInfoInputs.cache
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Sterling\obj\Debug\net5.0\Sterling.AssemblyInfo.cs
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Sterling\obj\Debug\net5.0\Sterling.csproj.CoreCompileInputs.cache
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Sterling\obj\Debug\net5.0\Sterling.dll
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Sterling\obj\Debug\net5.0\ref\Sterling.dll
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Sterling\obj\Debug\net5.0\Sterling.pdb
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Sterling\obj\Debug\net5.0\Sterling.genruntimeconfig.cache

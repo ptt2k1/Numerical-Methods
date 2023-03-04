@@ -1,0 +1,29 @@
+Da thuc bac 4 
+He so cua da thuc noi suy theo cong thuc 1 la: 
+20.627604166598235 	-192.79895833258036 	664.6898958302846 	-1001.8025416612894 	558.4791999965066 	
+
+Da thuc bac 4 
+He so cua da thuc noi suy theo cong thuc 2 la: 
+20.62760417269274 	-192.79895839103875 	664.6898960395306 	-1001.8025419924993 	558.4792001921192 	
+
+Thu lai: 
+
+
+Tai x = 2
+Gia tri P(x) - y = 1.6779022615764916E-11
+
+
+Tai x = 2.2
+Gia tri P(x) - y = -7.625011733125575E-13
+
+
+Tai x = 2.4
+Gia tri P(x) - y = 2.7988722450800196E-11
+
+
+Tai x = 2.6
+Gia tri P(x) - y = -5.469624753118296E-12
+
+
+Tai x = 2.8
+Gia tri P(x) - y = 2.1603968614059E-11

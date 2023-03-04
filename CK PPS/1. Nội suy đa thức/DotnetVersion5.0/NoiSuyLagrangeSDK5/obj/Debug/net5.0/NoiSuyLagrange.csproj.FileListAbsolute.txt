@@ -1,0 +1,16 @@
+D:\Code_Numerical_Methods\NoiSuyLagrange\bin\Debug\net5.0\NoiSuyLagrange.exe
+D:\Code_Numerical_Methods\NoiSuyLagrange\bin\Debug\net5.0\NoiSuyLagrange.deps.json
+D:\Code_Numerical_Methods\NoiSuyLagrange\bin\Debug\net5.0\NoiSuyLagrange.runtimeconfig.json
+D:\Code_Numerical_Methods\NoiSuyLagrange\bin\Debug\net5.0\NoiSuyLagrange.runtimeconfig.dev.json
+D:\Code_Numerical_Methods\NoiSuyLagrange\bin\Debug\net5.0\NoiSuyLagrange.dll
+D:\Code_Numerical_Methods\NoiSuyLagrange\bin\Debug\net5.0\ref\NoiSuyLagrange.dll
+D:\Code_Numerical_Methods\NoiSuyLagrange\bin\Debug\net5.0\NoiSuyLagrange.pdb
+D:\Code_Numerical_Methods\NoiSuyLagrange\obj\Debug\net5.0\NoiSuyLagrange.csproj.AssemblyReference.cache
+D:\Code_Numerical_Methods\NoiSuyLagrange\obj\Debug\net5.0\NoiSuyLagrange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_Numerical_Methods\NoiSuyLagrange\obj\Debug\net5.0\NoiSuyLagrange.AssemblyInfoInputs.cache
+D:\Code_Numerical_Methods\NoiSuyLagrange\obj\Debug\net5.0\NoiSuyLagrange.AssemblyInfo.cs
+D:\Code_Numerical_Methods\NoiSuyLagrange\obj\Debug\net5.0\NoiSuyLagrange.csproj.CoreCompileInputs.cache
+D:\Code_Numerical_Methods\NoiSuyLagrange\obj\Debug\net5.0\NoiSuyLagrange.dll
+D:\Code_Numerical_Methods\NoiSuyLagrange\obj\Debug\net5.0\ref\NoiSuyLagrange.dll
+D:\Code_Numerical_Methods\NoiSuyLagrange\obj\Debug\net5.0\NoiSuyLagrange.pdb
+D:\Code_Numerical_Methods\NoiSuyLagrange\obj\Debug\net5.0\NoiSuyLagrange.genruntimeconfig.cache

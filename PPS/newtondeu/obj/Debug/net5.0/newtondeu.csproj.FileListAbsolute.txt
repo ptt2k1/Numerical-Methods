@@ -1,0 +1,16 @@
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\newtondeu\bin\Debug\net5.0\newtondeu.exe
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\newtondeu\bin\Debug\net5.0\newtondeu.deps.json
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\newtondeu\bin\Debug\net5.0\newtondeu.runtimeconfig.json
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\newtondeu\bin\Debug\net5.0\newtondeu.runtimeconfig.dev.json
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\newtondeu\bin\Debug\net5.0\newtondeu.dll
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\newtondeu\bin\Debug\net5.0\ref\newtondeu.dll
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\newtondeu\bin\Debug\net5.0\newtondeu.pdb
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\newtondeu\obj\Debug\net5.0\newtondeu.csproj.AssemblyReference.cache
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\newtondeu\obj\Debug\net5.0\newtondeu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\newtondeu\obj\Debug\net5.0\newtondeu.AssemblyInfoInputs.cache
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\newtondeu\obj\Debug\net5.0\newtondeu.AssemblyInfo.cs
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\newtondeu\obj\Debug\net5.0\newtondeu.csproj.CoreCompileInputs.cache
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\newtondeu\obj\Debug\net5.0\newtondeu.dll
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\newtondeu\obj\Debug\net5.0\ref\newtondeu.dll
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\newtondeu\obj\Debug\net5.0\newtondeu.pdb
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\newtondeu\obj\Debug\net5.0\newtondeu.genruntimeconfig.cache

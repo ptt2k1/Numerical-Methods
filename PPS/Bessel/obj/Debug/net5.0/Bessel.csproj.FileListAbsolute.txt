@@ -1,0 +1,16 @@
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Bessel\bin\Debug\net5.0\Bessel.exe
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Bessel\bin\Debug\net5.0\Bessel.deps.json
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Bessel\bin\Debug\net5.0\Bessel.runtimeconfig.json
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Bessel\bin\Debug\net5.0\Bessel.runtimeconfig.dev.json
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Bessel\bin\Debug\net5.0\Bessel.dll
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Bessel\bin\Debug\net5.0\ref\Bessel.dll
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Bessel\bin\Debug\net5.0\Bessel.pdb
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Bessel\obj\Debug\net5.0\Bessel.csproj.AssemblyReference.cache
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Bessel\obj\Debug\net5.0\Bessel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Bessel\obj\Debug\net5.0\Bessel.AssemblyInfoInputs.cache
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Bessel\obj\Debug\net5.0\Bessel.AssemblyInfo.cs
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Bessel\obj\Debug\net5.0\Bessel.csproj.CoreCompileInputs.cache
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Bessel\obj\Debug\net5.0\Bessel.dll
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Bessel\obj\Debug\net5.0\ref\Bessel.dll
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Bessel\obj\Debug\net5.0\Bessel.pdb
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Bung\Bessel\obj\Debug\net5.0\Bessel.genruntimeconfig.cache

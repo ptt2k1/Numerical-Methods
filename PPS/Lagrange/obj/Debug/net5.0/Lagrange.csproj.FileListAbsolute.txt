@@ -1,0 +1,16 @@
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Lagrange\bin\Debug\net5.0\Lagrange.exe
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Lagrange\bin\Debug\net5.0\Lagrange.deps.json
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Lagrange\bin\Debug\net5.0\Lagrange.runtimeconfig.json
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Lagrange\bin\Debug\net5.0\Lagrange.runtimeconfig.dev.json
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Lagrange\bin\Debug\net5.0\Lagrange.dll
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Lagrange\bin\Debug\net5.0\ref\Lagrange.dll
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Lagrange\bin\Debug\net5.0\Lagrange.pdb
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Lagrange\obj\Debug\net5.0\Lagrange.csproj.AssemblyReference.cache
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Lagrange\obj\Debug\net5.0\Lagrange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Lagrange\obj\Debug\net5.0\Lagrange.AssemblyInfoInputs.cache
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Lagrange\obj\Debug\net5.0\Lagrange.AssemblyInfo.cs
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Lagrange\obj\Debug\net5.0\Lagrange.csproj.CoreCompileInputs.cache
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Lagrange\obj\Debug\net5.0\Lagrange.dll
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Lagrange\obj\Debug\net5.0\ref\Lagrange.dll
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Lagrange\obj\Debug\net5.0\Lagrange.pdb
+C:\Users\NHPT\OneDrive - Hanoi University of Science and Technology\Desktop\PPS\Lagrange\obj\Debug\net5.0\Lagrange.genruntimeconfig.cache
